@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanav Modi</h1>
-<h3 align="center">Aspiring TechnoPhile | Looking for an Internship</h3>
+<h3 align="center">Aspiring TechnoPhile | Open for an Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanavcode&label=Profile%20views&color=0e75b6&style=flat" alt="kanavcode" /> </p>
 
