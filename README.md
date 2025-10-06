@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/kanavmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kanavmodi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/kanavcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kanavcode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/kanav_modi_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kanav_modi_2006" height="30" width="40" /></a>
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?logo=github)](https://github.com/KanavCode)
 </p>
 
 <h3 align="left">🚀 Languages and Tools : </h3>
