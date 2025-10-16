@@ -37,13 +37,21 @@
   </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanavcode&show_icons=true&theme=dark&locale=en" alt="kanavcode" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanavcode&theme=dark" alt="kanavcode" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kanavcode&show_icons=true&theme=dark&locale=en" alt="kanavcode's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanavcode&theme=dark" alt="kanavcode's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanavcode&show_icons=true&theme=dark&locale=en&layout=compact" alt="kanavcode's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanavcode&show_icons=true&theme=dark&locale=en&layout=compact" alt="kanavcode" />
-</p>
-
 
 [![@kanavcode's Holopin board](https://holopin.me/kanavcode)](https://holopin.io/@kanavcode)
