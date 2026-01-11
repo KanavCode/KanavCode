@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanavcode&label=Profile%20views&color=059df5&style=flat" alt="kanavcode" /> </p>
 
-- 🔭 I’m currently working on [smart-campus-utility-hub](https://github.com/KanavCode/smart-campus-utility-hub)
-
 - 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
+  
+- 🏆 **Secretary** at Code Vimarsh.
 
--
+- 🤝 Open to collaborating on **Full Stack & AI Projects**.
 
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
