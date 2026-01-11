@@ -18,7 +18,7 @@
   <a href="mailto:your-modikanav9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://x.com/ModiKanav2006">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
