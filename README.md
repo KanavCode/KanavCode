@@ -8,14 +8,20 @@
 
 - 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
 
-- 📫 How to reach me **modikanav9@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/kanavmodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kanavmodi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kanavcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kanavcode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kanav_modi_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kanav_modi_2006" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <a href="https://linkedin.com/in/kanav-modi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-modikanav9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
 
 <h3 align="left">🚀 Languages and Tools : </h3>
   <a>
