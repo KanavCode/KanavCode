@@ -1,18 +1,11 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Kanav Modi
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">Aspiring TechnoPhile | Open for an Internship</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Aspiring+TechnoPhile;Open+for+Internships" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanavcode&label=Profile%20views&color=059df5&style=flat" alt="kanavcode" /> </p>
-
-- 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
-  
-- 🏆 **Secretary** at Code Vimarsh.
-
-- 🤝 Open to collaborating on **Full Stack & AI Projects**.
-
-<h3 align="left">Connect with me:</h3>
-<div align="center"> 
+<div align="center">
   <a href="https://linkedin.com/in/kanav-modi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,30 +13,41 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/ModiKanav2006">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
-<h3 align="left">🚀 Languages and Tools : </h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust" />
-  </a>
-  
-<h3 align="left">🌐 Web Technologies :  </h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" />
-  </a>
-<!-- git,github,mongodb,mysql -->
-<h3 align="left">🏗️ Frameworks & Technologies : </h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,tensorflow" />
-  </a>
-<h3 align="left">Tools : </h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
+<br />
 
-<p align="center">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanavcode&label=Profile%20Views&color=blue&style=flat-square" alt="kanavcode" />
+</div>
+
+- 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
+  
+- 🏆 **Secretary** at Code Vimarsh.
+
+- 🤝 Open to collaborating on **Full Stack & AI Projects**.
+
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,html,css,js,ts,react,nextjs,express,tailwind,tensorflow,git,github,vscode,postman&perline=9" />
+</div>
+
+<br />
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanavcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanavcode&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=kanavcode&theme=tokyonight&no-frame=true&column=7" />
+</div>
+
+<!-- <p align="center">
   <table>
     <tr>
       <td>
@@ -59,36 +63,13 @@
       </td>
     </tr>
   </table>
-</p>
+</p> -->
 
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+<h3 align="center">🎖️ Badges</h3>
+<div align="center">
+  <a href="https://holopin.io/@kanavcode">
+    <img src="https://holopin.me/kanavcode" alt="Holopin" />
+  </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-
-[![@kanavcode's Holopin board](https://holopin.me/kanavcode)](https://holopin.io/@kanavcode)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
