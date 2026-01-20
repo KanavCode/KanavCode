@@ -96,7 +96,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kanavcode&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
-<h3 align="center">🎖️ Badges</h3>
+<h3 align="center">🎖️ Holopin Badges (Hacktoberfest + Open Source)</h3>
 <div align="center">
   <a href="https://holopin.io/@kanavcode">
     <img src="https://holopin.me/kanavcode" alt="Holopin" />
