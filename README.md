@@ -90,11 +90,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kanavcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanavcode&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
 </div>
-
 <div align="center">
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=kanavcode&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanavcode&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
 </div>
+
 
 <h3 align="center">🎖️ Holopin Badges (Hacktoberfest + Open Source)</h3>
 <div align="center">
