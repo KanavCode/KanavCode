@@ -25,11 +25,15 @@
   <img src="https://komarev.com/ghpvc/?username=kanavcode&label=Profile%20Views&color=blue&style=flat-square" alt="kanavcode" />
 </div>
 
-- 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
-  
-- 🏆 **Secretary** at Code Vimarsh.
+- 💼 Working as **Software Developer Intern** at [AdeptStation](https://adeptstation.com/)
 
-- 🤝 Open to collaborating on **Full Stack & AI Projects**.
+- 🏆 **Secretary** at Code Vimarsh
+
+<!-- - 👥 **Member** at [EduLinkup](https://www.edulinkup.dev/) -->
+
+- 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
+
+- 🤝 Open to collaborating on **Full Stack & AI Projects**
 
 <h3 align="center">💻 Programming Languages</h3>
 <div align="center">
