@@ -8,19 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: kanavcode
+        uses: yoshi389111/github-profile-3d-contrib@latest
 
       - name: Commit & Push
         run: |
-          git config --local user.email "you@example.com"
-          git config --local user.name "github-actions"
+          git config --local user.email "modikanav9@gmail.com"
+          git config --local user.name "Kanav-Profile"
           git add .
           git commit -m "Generate 3D graph"
           git push
