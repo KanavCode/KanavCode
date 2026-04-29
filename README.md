@@ -102,6 +102,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanavcode&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
+<h3 align="center">🌐 3D Contribution Graph</h3>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</div>
 
 <h3 align="center">🎖️ Holopin Badges (Hacktoberfest + Open Source)</h3>
 <div align="center">
