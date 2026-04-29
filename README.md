@@ -29,8 +29,6 @@
 
 - 🏆 **Secretary** at Code Vimarsh
 
-<!-- - 👥 **Member** at [EduLinkup](https://www.edulinkup.dev/) -->
-
 - 🌱 I’m currently learning **DSA, React JS & Tailwind CSS**
 
 - 🤝 Open to collaborating on **Full Stack & AI Projects**
@@ -96,6 +94,12 @@
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanavcode&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+</div>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanavcode&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 
